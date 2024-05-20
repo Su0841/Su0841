@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am a very beginner programmer 💻
+I hope I can meet many people and participate in lots of projects to learn more about the coding world ✨✨
+I hope that I can also contribute much to this kind and hardworking community 🎉🎉
+
+
+
 
 <!--
 **Su0841/Su0841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
